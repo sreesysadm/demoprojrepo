@@ -4,4 +4,6 @@
 
 *.php
 
+[aeiou]*.txt
+
  
